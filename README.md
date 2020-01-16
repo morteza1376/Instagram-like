@@ -13,8 +13,8 @@ $ git clone https://github.com/morteza1376/Instagram-like.git
 1. First edit main.py with your account information
 2. Install requirements & Run project with this command
 ```bash
-$ pip3 install requirements.txt
 $ cd Instagram-like/
+$ pip3 install requirements.txt
 $ python3 main.py
 ```
 ## Are you a developer?
